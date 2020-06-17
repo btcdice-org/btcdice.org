@@ -1,9 +1,13 @@
-[BTCDice.org](https://btcdice.org) - Awesome Bitcoin Dice-Site Collections
+[BTCDice.org](https://btcdice.org)
+
+Awesome Bitcoin Dice-Site Collections
+
+
 
 [TOC]
 
 ## Dice Sites
-| SITE | HOUSE | FAUCET |EXCHANGE | INVESTMENT | RAKEBACK |AFFILIATE|
+| SITE | HOUSE | FAUCET |EXCHANGE | INVEST | RAKEBACK |AFFILIATE|
 | --- | --- | --- | --- | --- | --- | --- |
 | [Primedice](https://primedice.com/?c=37b517eadb) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
 | [Stake](https://stake.com/?c=34589cdbda) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
@@ -20,7 +24,12 @@
 |[BitDice](https://www.bitdice.me/?r=78164)|1%|No|No|No|No|[Yes](https://www.bitdice.me/?r=78164)|
 |[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|Yes|[Yes](https://luckyfish.io/?c=btcdiceorg)|
 |[FortuneJack](https://fortunejack.com)|1%|Yes|No|No|No|No|
-|[Rootbet](https://roobet.com/?ref=btcdiceorg)|3%|No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
+|[Roobet](https://roobet.com/?ref=btcdiceorg)|3%|No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
+|[Vipgame](https://vipgame.io?code=UPPM5YFTXDWH)|2%|No|No|No|No|[Yes](https://vipgame.io?code=UPPM5YFTXDWH)|
+|[Luckybit](https://luckyb.it)||No|No|No|No|No|
+|[Cyberdice](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|1%|Yes|No|No|No|[Yes](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|
+|[Onehash](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|1%|Yes|No|No|No|[Yes](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|
+
 ## Dice Bots
 
 | BOT | PLATFORM | SCRIPT |
