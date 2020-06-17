@@ -17,6 +17,7 @@
 | [Paradice](https://paradice.in/?c=btcdice) | 1% | Yes |No|No| Yes |[Yes](https://paradice.in/?c=btcdice)|
 | [Bustadice](https://bustadice.com) | 1% | No | No | Yes |No|No|
 | [Bitvest](https://bitvest.io?r=148711) | 1% | Yes | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
+|[BitDice](https://www.bitdice.me/?r=78164)|1%|No|No|No|No|[Yes](https://www.bitdice.me/?r=78164)|
 |[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|No|[Yes](https://luckyfish.io/?c=btcdiceorg)|
 |[FortuneJack](https://fortunejack.com)|1%|Yes|No|No|No|No|
 |[Rootbet](https://roobet.com/?ref=btcdiceorg)|3%|No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
