@@ -45,9 +45,9 @@
 
 ## Other Gamblings
 
-| SITE                     | HOUSE EDGE | INVESTMENT |
-| ------------------------ | ---------- | ---------- |
-| [Bustabit](bustabit.com) | 1%         | Yes        |
+| SITE                             | HOUSE EDGE | INVESTMENT |
+| -------------------------------- | ---------- | ---------- |
+| [Bustabit](https://bustabit.com) | 1%         | Yes        |
 
 
 
