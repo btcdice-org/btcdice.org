@@ -19,6 +19,7 @@
 | [Bitvest](https://bitvest.io?r=148711) | 1% | Yes | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
 |[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|No|[Yes](https://luckyfish.io/?c=btcdiceorg)|
 |[FortuneJack](https://fortunejack.com)|1%|Yes|No|No|No|No|
+|[Rootbet](https://roobet.com/?ref=btcdiceorg)||No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
 ## Dice Bots
 
 | BOT | PLATFORM | SCRIPT |
