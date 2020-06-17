@@ -53,5 +53,6 @@
 
 ## Contact us
 
-* [Bitcointalk]()
+* [Bitcointalk](https://bitcointalk.org/index.php?topic=5256106.0)
 * [Github](https://github.com/btcdice-org/btcdice.org/issues)
+
