@@ -5,8 +5,8 @@
 ## Dice Sites
 | SITE | HOUSE EDGE | FAUCET |EXCHANGE | INVESTMENT | RAKEBACK |AFFILIATE|
 | --- | --- | --- | --- | --- | --- | --- |
-| [Primedice](https://primedice.com/?c=37b517eadb) | 1% | Yes(VIP) | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
-| [Stake](https://stake.com/?c=34589cdbda) | 1% | Yes(VIP) | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
+| [Primedice](https://primedice.com/?c=37b517eadb) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
+| [Stake](https://stake.com/?c=34589cdbda) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
 | [Bitsler](https://www.bitsler.com/?ref=btcdiceorg) | 1% | Yes(Token) | Yes | No |Yes|[Yes](https://www.bitsler.com/?ref=btcdiceorg)|
 | [Freebitcoin](https://freebitco.in/?r=38146355) | 5% | Yes |No| Yes | No |[Yes](https://freebitco.in/?r=38146355)|
 | [Crypto.games](https://crypto.games?i=ouVsFM9oV6) | 0.8% | Yes | Yes |No|No|[Yes](https://crypto.games?i=ouVsFM9oV6)|
