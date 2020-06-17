@@ -1,8 +1,4 @@
-[BTCDice.org](https://btcdice.org)
-
-Awesome Bitcoin Dice-Site Collections
-
-
+[BTCDice.org](https://btcdice.org) - Awesome Bitcoin Dice-Site Collections
 
 [TOC]
 
