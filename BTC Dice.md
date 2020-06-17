@@ -5,10 +5,10 @@
 ## Dice Sites
 | SITE | HOUSE EDGE | FAUCET |EXCHANGE | INVESTMENT | RAKEBACK |AFFILIATE|
 | --- | --- | --- | --- | --- | --- | --- |
-| [Primedice](https://primedice.com/?c=37b517eadb) | 1% | Yes | Yes | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
-| [Stake](https://stake.com/?c=34589cdbda) | 1% | Yes | Yes | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
-| [Bitsler](https://www.bitsler.com/?ref=btcdiceorg) | 1% | Yes | Yes | No |Yes|[Yes](https://www.bitsler.com/?ref=btcdiceorg)|
-| [Freebitcoin](https://freebitco.in/?r=38146355) | 1% | Yes |No| Yes | No |[Yes](https://freebitco.in/?r=38146355)|
+| [Primedice](https://primedice.com/?c=37b517eadb) | 1% | Yes(VIP) | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
+| [Stake](https://stake.com/?c=34589cdbda) | 1% | Yes(VIP) | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
+| [Bitsler](https://www.bitsler.com/?ref=btcdiceorg) | 1% | Yes(Token) | Yes | No |Yes|[Yes](https://www.bitsler.com/?ref=btcdiceorg)|
+| [Freebitcoin](https://freebitco.in/?r=38146355) | 5% | Yes |No| Yes | No |[Yes](https://freebitco.in/?r=38146355)|
 | [Crypto.games](https://crypto.games?i=ouVsFM9oV6) | 0.8% | Yes | Yes |No|No|[Yes](https://crypto.games?i=ouVsFM9oV6)|
 | [Yolodice](https://yolodice.com/r?9iZL-2ZPG) | 1% | Yes | Yes | Yes |Yes|[Yes](https://yolodice.com/r?9iZL-2ZPG)|
 | [Duckdice](https://duckdice.io/?c=a5812eed82) | 1% | Yes | Yes |No|No|[Yes](https://duckdice.io/?c=a5812eed82)|
@@ -16,9 +16,9 @@
 | [Windice](https://windice.io/?r=btcdiceorg) | 1% |Yes|Yes| No | No |[Yes](https://windice.io/?r=btcdiceorg)|
 | [Paradice](https://paradice.in/?c=btcdice) | 1% | Yes |No|No| Yes |[Yes](https://paradice.in/?c=btcdice)|
 | [Bustadice](https://bustadice.com) | 1% | No | No | Yes |No|No|
-| [Bitvest](https://bitvest.io?r=148711) | 1% | Yes | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
+| [Bitvest](https://bitvest.io?r=148711) | 1% | Yes(Token) | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
 |[BitDice](https://www.bitdice.me/?r=78164)|1%|No|No|No|No|[Yes](https://www.bitdice.me/?r=78164)|
-|[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|No|[Yes](https://luckyfish.io/?c=btcdiceorg)|
+|[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|Yes|[Yes](https://luckyfish.io/?c=btcdiceorg)|
 |[FortuneJack](https://fortunejack.com)|1%|Yes|No|No|No|No|
 |[Rootbet](https://roobet.com/?ref=btcdiceorg)|3%|No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
 ## Dice Bots
