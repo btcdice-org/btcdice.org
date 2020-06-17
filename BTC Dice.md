@@ -19,7 +19,7 @@
 | [Bitvest](https://bitvest.io?r=148711) | 1% | Yes | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
 |[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|No|[Yes](https://luckyfish.io/?c=btcdiceorg)|
 |[FortuneJack](https://fortunejack.com)|1%|Yes|No|No|No|No|
-|[Rootbet](https://roobet.com/?ref=btcdiceorg)||No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
+|[Rootbet](https://roobet.com/?ref=btcdiceorg)|3%|No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
 ## Dice Bots
 
 | BOT | PLATFORM | SCRIPT |
@@ -37,7 +37,7 @@
 
 ## Dice Strategies
 
-|Strategies|Example|Script|
+|STRATEGY|EXAMPLE|SCRIPT|
 |---|---|---|
 |[Martingale](https://en.wikipedia.org/wiki/Martingale_(betting_system))|**RULE 1 – Double your stake every time you lose** <br />**RULE 2 - Stake one base unit after every win**<br />eg. <br />1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, ...<br />|TODO|
 |[Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number)|eg.<br />0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...<br />|TODO|
@@ -49,6 +49,7 @@
 | SITE                             | HOUSE EDGE | INVESTMENT |
 | -------------------------------- | ---------- | ---------- |
 | [Bustabit](https://bustabit.com) | 1%         | Yes        |
+|[Playbetr](https://www.playbetr.com?r=6599)|||
 
 
 
