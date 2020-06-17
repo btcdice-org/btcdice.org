@@ -3,7 +3,7 @@
 [TOC]
 
 ## Dice Sites
-| SITE | HOUSE EDGE | FAUCET |EXCHANGE | INVESTMENT | RAKEBACK |AFFILIATE|
+| SITE | HOUSE | FAUCET |EXCHANGE | INVESTMENT | RAKEBACK |AFFILIATE|
 | --- | --- | --- | --- | --- | --- | --- |
 | [Primedice](https://primedice.com/?c=37b517eadb) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
 | [Stake](https://stake.com/?c=34589cdbda) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
