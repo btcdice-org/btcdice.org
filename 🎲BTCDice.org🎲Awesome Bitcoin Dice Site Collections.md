@@ -48,6 +48,7 @@
 | -------------------------------- | ---------- | ---------- |
 | [Bustabit](https://bustabit.com) | 1%         | Yes        |
 |[Playbetr](https://www.playbetr.com?r=6599)|||
+|[Sportsbet](https://sportsbet.io)|||
 
 ## Contact us
 
