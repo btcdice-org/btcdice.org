@@ -28,10 +28,10 @@
 
 ## Dice Bots
 
-| BOT | PLATFORM | LANGUAGE |SCRIPT|
-| --- | --- | --- | ---|
-| [Seuntjies DiceBot](https://bot.seuntjie.com) | Windows | Lua |[Seuntjies DiceBot Scripts](https://bot.seuntjie.com/Scripts.aspx)<br/>[Blaksmith-DiceBotScripts](https://github.com/Blaksmith/DiceBotScripts)<br/>|
-| [MyDiceBot](https://mydicebot.com) | Windows<br/>Mac<br/>Linux<br/>Android<br/>Web<br/>Terminal<br/>Raspberry Pi<br/> | Lua<br/>Javascript<br/>Python<br/> |[MyDiceBot Scripts](https://gist.github.com/mydicebot)|
+| BOT | PLATFORM | LANG |CODE|SCRIPT|
+| --- | --- | --- | ---| ---|
+| [Seuntjies DiceBot](https://bot.seuntjie.com) | Windows | Lua |[Github](https://github.com/Seuntjie900/DiceBot)|[Seuntjies DiceBot Scripts](https://bot.seuntjie.com/Scripts.aspx)<br/>[Blaksmith-DiceBotScripts](https://github.com/Blaksmith/DiceBotScripts)<br/>|
+| [MyDiceBot](https://mydicebot.com) | Windows<br/>Mac<br/>Linux<br/>Android<br/>Web<br/>Terminal<br/>Raspberry Pi<br/> | Lua<br/>Javascript<br/>Python<br/> |[Github](https://github.com/mydicebot/mydicebot.github.io)|[MyDiceBot Scripts](https://gist.github.com/mydicebot)|
 
 ## Dice Strategies
 
