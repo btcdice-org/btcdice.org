@@ -26,6 +26,7 @@
 |[Cyberdice](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|1%|Yes|No|No|No|[Yes](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|
 |[Onehash](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|1%|Yes|No|No|No|[Yes](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|
 |[Mintdice](https://mintdice.com/ref/btcdiceorg)|1%|Yes|No|Yes|No|[Yes](https://mintdice.com/ref/btcdiceorg)|
+|[Faucetpay](https://faucetpay.io/?r=382030)|1%|Yes|Yes|No|No|[Yes](https://faucetpay.io/?r=382030)|
 
 ## Dice Bots
 
