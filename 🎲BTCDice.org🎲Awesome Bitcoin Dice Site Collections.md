@@ -28,6 +28,7 @@
 |[Mintdice](https://mintdice.com/ref/btcdiceorg)|1%|Yes|No|Yes|No|[Yes](https://mintdice.com/ref/btcdiceorg)|
 |[Faucetpay](https://faucetpay.io/?r=382030)|1%|Yes|Yes|No|No|[Yes](https://faucetpay.io/?r=382030)|
 |[Jacksclub](https://jacksclub.io?r=~btcdiceorg)|1%|No|No|No|No|[Yes](https://jacksclub.io?r=~btcdiceorg)|
+|[Coindragon](https://coindragon.com/ref/btcdiceorg)|1%|Yes|No|No|No|[Yes](https://coindragon.com/ref/btcdiceorg)|
 
 ## Dice Bots
 
