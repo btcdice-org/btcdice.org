@@ -49,11 +49,11 @@
 
 ## Other Gamblings
 
-| SITE                             | HOUSE | INVEST |
-| -------------------------------- | ---------- | ---------- |
-| [Bustabit](https://bustabit.com) | 1%         | Yes        |
-|[Playbetr](https://www.playbetr.com?r=6599)|||
-|[Sportsbet](https://sportsbet.io)|||
+| SITE                             |GAME| INVEST |AFFILIATE|
+| -------------------------------- |---| ---------- |---|
+| [Bustabit](https://bustabit.com) |Crash|Yes|No|
+|[Playbetr](https://www.playbetr.com?r=6599)||||
+|[Sportsbet](https://sportsbet.io)|||[Yes](https://partners_click.sportsbet.io/?serial=4024&creative_id=1066&anid=)|
 
 ## Contact us
 
