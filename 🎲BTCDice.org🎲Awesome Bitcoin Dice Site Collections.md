@@ -3,32 +3,32 @@
 [TOC]
 
 ## Dice Sites
-| SITE | HOUSE | FAUCET |EXCHANGE | INVEST | RAKEBACK |AFFILIATE|
-| --- | --- | --- | --- | --- | --- | --- |
-| [Primedice](https://primedice.com/?c=37b517eadb) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
-| [Stake](https://stake.com/?c=34589cdbda) | 1% | No | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
-| [Bitsler](https://www.bitsler.com/?ref=btcdiceorg) | 1% | Yes(Token) | Yes | No |Yes|[Yes](https://www.bitsler.com/?ref=btcdiceorg)|
-| [Freebitcoin](https://freebitco.in/?r=38146355) | 5% | Yes |No| Yes | No |[Yes](https://freebitco.in/?r=38146355)|
-| [Crypto.games](https://crypto.games?i=ouVsFM9oV6) | 0.8% | Yes | Yes |No|No|[Yes](https://crypto.games?i=ouVsFM9oV6)|
-| [Yolodice](https://yolodice.com/r?9iZL-2ZPG) | 1% | Yes | Yes | Yes |Yes|[Yes](https://yolodice.com/r?9iZL-2ZPG)|
-| [Duckdice](https://duckdice.io/?c=a5812eed82) | 1% | Yes | Yes |No|No|[Yes](https://duckdice.io/?c=a5812eed82)|
-| [Wolfbet](https://wolf.bet?c=btcdice) | 1% | Yes | No |No|Yes|[Yes](https://wolf.bet?c=btcdice)|
-| [Windice](https://windice.io/?r=btcdiceorg) | 1% |Yes|Yes| No | No |[Yes](https://windice.io/?r=btcdiceorg)|
-| [Paradice](https://paradice.in/?c=btcdice) | 1% | Yes |No|No| Yes |[Yes](https://paradice.in/?c=btcdice)|
-| [Bustadice](https://bustadice.com) | 1% | No | No | Yes |No|No|
-| [Bitvest](https://bitvest.io?r=148711) | 1% | Yes(Token) | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
-|[BitDice](https://www.bitdice.me/?r=78164)|1%|No|No|No|No|[Yes](https://www.bitdice.me/?r=78164)|
-|[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%|Yes|No|No|Yes|[Yes](https://luckyfish.io/?c=btcdiceorg)|
-|[FortuneJack](https://fortunejack.com)|1%|Yes|No|No|No|No|
-|[Roobet](https://roobet.com/?ref=btcdiceorg)|3%|No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
-|[Vipgame](https://vipgame.io?code=UPPM5YFTXDWH)|2%|No|No|No|No|[Yes](https://vipgame.io?code=UPPM5YFTXDWH)|
-|[Luckybit](https://luckyb.it)|1.76%|No|No|No|No|No|
-|[Cyberdice](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|1%|Yes|No|No|No|[Yes](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|
-|[Onehash](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|1%|Yes|No|No|No|[Yes](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|
-|[Mintdice](https://mintdice.com/ref/btcdiceorg)|1%|Yes|No|Yes|No|[Yes](https://mintdice.com/ref/btcdiceorg)|
-|[Faucetpay](https://faucetpay.io/?r=382030)|1%|Yes|Yes|No|No|[Yes](https://faucetpay.io/?r=382030)|
-|[Jacksclub](https://jacksclub.io?r=~btcdiceorg)|1%|No|No|No|No|[Yes](https://jacksclub.io?r=~btcdiceorg)|
-|[Coindragon](https://coindragon.com/ref/btcdiceorg)|1%|No|No|No|Yes|[Yes](https://coindragon.com/ref/btcdiceorg)|
+| SITE | HOUSE | CURRENCY |FAUCET |EXCHANGE | INVEST | RAKEBACK |AFFILIATE|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| [Primedice](https://primedice.com/?c=37b517eadb) | 1% || No | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
+| [Stake](https://stake.com/?c=34589cdbda) | 1% || No | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
+| [Bitsler](https://www.bitsler.com/?ref=btcdiceorg) | 1% || Yes(Token) | Yes | No |Yes|[Yes](https://www.bitsler.com/?ref=btcdiceorg)|
+| [Freebitcoin](https://freebitco.in/?r=38146355) | 5% || Yes |No| Yes | No |[Yes](https://freebitco.in/?r=38146355)|
+| [Crypto.games](https://crypto.games?i=ouVsFM9oV6) | 0.8% || Yes | Yes |No|No|[Yes](https://crypto.games?i=ouVsFM9oV6)|
+| [Yolodice](https://yolodice.com/r?9iZL-2ZPG) | 1% || Yes | Yes | Yes |Yes|[Yes](https://yolodice.com/r?9iZL-2ZPG)|
+| [Duckdice](https://duckdice.io/?c=a5812eed82) | 1% || Yes | Yes |No|No|[Yes](https://duckdice.io/?c=a5812eed82)|
+| [Wolfbet](https://wolf.bet?c=btcdice) | 1% || Yes | No |No|Yes|[Yes](https://wolf.bet?c=btcdice)|
+| [Windice](https://windice.io/?r=btcdiceorg) | 1% ||Yes|Yes| No | No |[Yes](https://windice.io/?r=btcdiceorg)|
+| [Paradice](https://paradice.in/?c=btcdice) | 1% || Yes |No|No| Yes |[Yes](https://paradice.in/?c=btcdice)|
+| [Bustadice](https://bustadice.com) | 1% || No | No | Yes |No|No|
+| [Bitvest](https://bitvest.io?r=148711) | 1% || Yes(Token) | No | Yes |No|[Yes](https://bitvest.io?r=148711)|
+|[BitDice](https://www.bitdice.me/?r=78164)|1%||No|No|No|No|[Yes](https://www.bitdice.me/?r=78164)|
+|[Luckyfish](https://luckyfish.io/?c=btcdiceorg)|1%||Yes|No|No|Yes|[Yes](https://luckyfish.io/?c=btcdiceorg)|
+|[FortuneJack](https://fortunejack.com)|1%||Yes|No|No|No|No|
+|[Roobet](https://roobet.com/?ref=btcdiceorg)|3%||No|No|No|No|[Yes](https://roobet.com/?ref=btcdiceorg)|
+|[Vipgame](https://vipgame.io?code=UPPM5YFTXDWH)|2%||No|No|No|No|[Yes](https://vipgame.io?code=UPPM5YFTXDWH)|
+|[Luckybit](https://luckyb.it)|1.76%||No|No|No|No|No|
+|[Cyberdice](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|1%||Yes|No|No|No|[Yes](https://www.cyberdice.net/?ap=872a5a69ccd94f66ba2821)|
+|[Onehash](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|1%||Yes|No|No|No|[Yes](www.onehash.com/?ap=872a5a69ccd94f66ba2821)|
+|[Mintdice](https://mintdice.com/ref/btcdiceorg)|1%||Yes|No|Yes|No|[Yes](https://mintdice.com/ref/btcdiceorg)|
+|[Faucetpay](https://faucetpay.io/?r=382030)|1%||Yes|Yes|No|No|[Yes](https://faucetpay.io/?r=382030)|
+|[Jacksclub](https://jacksclub.io?r=~btcdiceorg)|1%||No|No|No|No|[Yes](https://jacksclub.io?r=~btcdiceorg)|
+|[Coindragon](https://coindragon.com/ref/btcdiceorg)|1%||No|No|No|Yes|[Yes](https://coindragon.com/ref/btcdiceorg)|
 
 ## Dice Bots
 
