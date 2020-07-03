@@ -30,6 +30,7 @@
 |[Jacksclub](https://jacksclub.io?r=~btcdiceorg)|1%||No|No|No|No|[Yes](https://jacksclub.io?r=~btcdiceorg)|
 |[Coindragon](https://coindragon.com/ref/btcdiceorg)|1%||No|No|No|Yes|[Yes](https://coindragon.com/ref/btcdiceorg)|
 |[Bethash](http://bethash.net/?ref=tbtmyqj1355o)|2%||No|Yes|Yes|No|[Yes](http://bethash.net/?ref=tbtmyqj1355o)|
+|[Hashpro](https://hashpro.io/r/tbtmyqj1355o)|2%||No|No|No|Yes|[Yes](https://hashpro.io/r/tbtmyqj1355o)|
 
 ## Dice Bots
 
@@ -60,3 +61,4 @@
 
 * [Bitcointalk](https://bitcointalk.org/index.php?topic=5256106.0)
 * [Github](https://github.com/btcdice-org/btcdice.org/issues)
+
