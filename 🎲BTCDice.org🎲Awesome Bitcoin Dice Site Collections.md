@@ -5,6 +5,7 @@
 ## Dice Sites
 | SITE | HOUSE | CURRENCY |FAUCET |EXCHANGE | INVEST | RAKEBACK |AFFILIATE|
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|[999dice](https://www.999dice.com/?330322248)|0.1%||Yes|Yes|No|No|[Yes](https://www.999dice.com/?330322248)|
 | [Primedice](https://primedice.com/?c=37b517eadb) | 1% || No | Yes(3rd.Party) | No |Yes|[Yes](https://primedice.com/?c=37b517eadb)|
 | [Stake](https://stake.com/?c=34589cdbda) | 1% || No | Yes(3rd.Party) | No |Yes|[Yes](https://stake.com/?c=34589cdbda)|
 | [Bitsler](https://www.bitsler.com/?ref=btcdiceorg) | 1% || Yes(Token) | Yes | No |Yes|[Yes](https://www.bitsler.com/?ref=btcdiceorg)|
