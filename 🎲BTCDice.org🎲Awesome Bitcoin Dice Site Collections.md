@@ -33,6 +33,7 @@
 |[Bethash](http://bethash.net/?ref=tbtmyqj1355o)|2%||No|Yes|Yes|No|[Yes](http://bethash.net/?ref=tbtmyqj1355o)|
 |[Hashpro](https://hashpro.io/r/tbtmyqj1355o)|2%||No|No|No|Yes|[Yes](https://hashpro.io/r/tbtmyqj1355o)|
 |[Simpledice](https://simpledice.com/en?r=NRFdtXI2QIB)|1%||Yes|No|No|No|[Yes](https://simpledice.com/en?r=NRFdtXI2QIB)|
+|[Cryptodice](https://cryptodice.io/a?c=IlFFf1OcgCR3)|1%||Yes|No|Yes|No|[Yes](https://cryptodice.io/a?c=IlFFf1OcgCR3)|
 
 ## Dice Bots
 
